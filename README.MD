@@ -17,7 +17,7 @@ $ python3 h1_finder.py
 $ python -m venv venv
 $ .\venv\Scripts\activate
 $ pip install -r requirements.txt
-$ python main.py
+$ python h1_finder.py
 ```
 
 # Failed Links
